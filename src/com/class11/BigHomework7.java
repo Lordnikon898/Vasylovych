@@ -32,8 +32,8 @@ public class BigHomework7 {
 				min = arr[i];
 			}
 		}
-		a = new int[i]; 
-		System.out.println(a.length);
+		
+		
 
 		System.out.println("Minimum =" + min);
 		System.out.println("Second lar =" + sec);

@@ -10,7 +10,7 @@ public class BigHomework4 {
 		Scanner scan = new Scanner(System.in);
 		System.out.println("Enter string");
 
-		String a = scan.next();
+		String a = scan.nextLine();
 
 		String b = a.replaceAll("[A-Za-z0-9]", ""); 
 		//replacing everything except characters with "" -->(nothing)
