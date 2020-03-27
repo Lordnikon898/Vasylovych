@@ -42,6 +42,7 @@ public class Homework15 {
 		int x = scan.nextInt();
 		
 		System.out.println(a.prime(x));
+		System.out.print("Whats up fols im typingfrom my brandnew keybord");
 		
 	}
 
